@@ -1,0 +1,8 @@
+endereço do contrato mario 721 rede goerli (estou usando este)
+0xB836cfd34635a326508322E6c249D3644197bA4b 
+
+rede goerli contrato openzeppelin 
+0xABc6Ef3592A86b4B1006CB775b0F676227a8eB86
+
+enderecos jsons
+QmR7YxBTrVQCwW6B4wJVgP3KaRrjjZARquL7eJnDkkZM85
